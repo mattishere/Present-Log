@@ -8,7 +8,7 @@ Present Log is a really simple **Node.js library** for making pretty console log
 
 The entire source is written with **>100 lines** of code, and is overall really minimal.
 
-This is my **first attempt** at making a Node.js library, so if you have any issues make sure to report them [here](https://github.com/mattishere/nvim/issues). Expect at least a moderate amount of bugs!
+This is my **first attempt** at making a Node.js library, so if you have any issues make sure to report them [here](https://github.com/mattishere/Present-Log/issues). Expect at least a moderate amount of bugs!
 
 You're also more than welcome to **send a PR** if you've made something cool or have fixed any bugs, but note that I will likely *not be* checking this repo as often since this was a **very** small test project to make my life a bit easier.
 
