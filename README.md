@@ -6,7 +6,7 @@ The **easy way** to make your console logs look good.
 ## About
 Present Log is a really simple **Node.js library** for making pretty console logs.
 
-The entire source is written with **>100 lines** of code, and is overall really minimal.
+The entire source is written with **<100 lines** of code, and is overall really minimal.
 
 This is my **first attempt** at making a Node.js library, so if you have any issues make sure to report them [here](https://github.com/mattishere/Present-Log/issues). Expect at least a moderate amount of bugs!
 
