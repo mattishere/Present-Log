@@ -8,21 +8,10 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
-  "keywords": [
-    "logging",
-    "console"
-  ],
   "author": "MattHere",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.11.9",
     "typescript": "^4.8.4"
-  },
-  "files": [
-    "dist/**/*"
-  ],
-  "bugs": {
-    "url": "https://github.com/mattishere/Present-Log#issues"
-  },
-  "homepage": "https://github.com/mattishere/Present-Log#readme"
+  }
 }

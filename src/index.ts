@@ -49,7 +49,7 @@ type LogOptions = {
  * @param {options} options Options to use for the log.
  */
 
-function logOut(options:LogOptions):void {
+function output(options:LogOptions):void {
 	let consoleOutput:string;
 
 	if(options.type === LogType.Custom) {
@@ -74,4 +74,4 @@ function logOut(options:LogOptions):void {
 	console.log(consoleOutput);
 }
 
-export { LogOptions, logOut, LogType, Colors }
+export { LogOptions, output, LogType, Colors }
