@@ -28,6 +28,7 @@ Since this library is not published to NPM, the process of installing it is a bi
   },
   ...
 ```
+- After doing that, run `npm install`.
 - And then you're good! Now, it's time to start using the library.
 
 First, begin by importing the main components of the library.
