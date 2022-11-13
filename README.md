@@ -1,5 +1,5 @@
 # Present Log
-The **easy way** to make your console logs looks good.
+The **easy way** to make your console logs look good.
 
 ![screenshot](screenshots/1.jpg)
 
