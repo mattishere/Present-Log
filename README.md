@@ -17,7 +17,7 @@ You're also more than welcome to **send a PR** if you've made something cool or 
 Since this library is not published to NPM, the process of installing it is a bit different, but isn't too difficult nor time consuming.
 
 - Begin by cloning the repository.`git clone https://github.com/mattishere/Present-Log.git`
-- Then, go into the directory and run `npm run install && npm run build`. This will install the dependencies and build the library.
+- Then, go into the directory and run `npm install && npm run build`. This will install the dependencies and build the library.
 - Now, run `npm pack`. This command makes a **.tgz** file.
 - Then, in your project, reference the **.tgz** file in your **package.json**:
 ```JSON
